@@ -5,10 +5,11 @@ Runscope Message Handler for use with System.Net.Http.HttpClient
 
 - Requires a free Runscope account, [sign up here](https://www.runscope.com/signup)
 - Automatically create Runscope URLs for your requests
+- Portable library, works with .net 4.5, Windows Phone 7.5 and 8, and Windows Store Apps.  
 
 ### Installation
 
-    install-package Runscope.Contrib  // Doesn't exist yet!
+    PM> Install-Package Runscope.Contrib -Pre   
 
 
 ### Example

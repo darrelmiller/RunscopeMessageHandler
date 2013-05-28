@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("RunscopeMessageHandler")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Message Handler to redirect all http client requests via Runscope proxy")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Darrel Miller")]
 [assembly: AssemblyProduct("RunscopeMessageHandler")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]

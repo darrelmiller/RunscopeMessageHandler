@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Runscope.Contrib</id>
+    <version>0.9.1-beta</version>
+    <title>Runscope.Contrib</title>
+    <authors>Darrel Miller</authors>
+    <owners>Darrel Miller</owners>
+    <licenseUrl>https://github.com/darrelmiller/RunscopeMessageHandler/blob/master/License.txt</licenseUrl>
+    <projectUrl>https://github.com/darrelmiller/RunscopeMessageHandler</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2013</copyright>
+  </metadata>
+</package>
